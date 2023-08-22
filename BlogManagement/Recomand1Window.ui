@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1899</width>
+    <height>900</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(159, 159, 159);</string>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>1858</width>
+         <height>4318</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QFrame" name="frame">
+          <property name="minimumSize">
+           <size>
+            <width>0</width>
+            <height>4300</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(255, 255, 255);</string>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <widget class="QLabel" name="label_3">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>690</y>
+             <width>1121</width>
+             <height>71</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 28pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string>A list of the most successful football clubs in Europe</string>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>760</y>
+             <width>1851</width>
+             <height>4961</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;When you think about the most successful club in Europe, who comes to mind? Manchester United, Real Madrid and Barcelona probably spring straight to mind. Only two of these clubs make the list, and they still don’t break into the top two.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;The amount of trophies a club has doesn’t make them better another, but being the most successful club in Europe is a bragging right on its own.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;In this post, we’ve looked at which club in Europe’s top divisions has the most trophies locked up in their museum.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;5. SL Benfica (83 trophies)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;The most successful team in Portugal, SL Benfica sit proudly in fifth place as one of the most successful teams in Europe. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Benfica have a record amount of Primeira Liga titles (37), a record amount of Taca de Portugal titles (26), a record amount of Taca da Liga titles (7), 8 Supertaca Candido de Oliveira, 3 Campeonato de Portugal and 2 European Cups.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Golden years&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;In the 1960s, Benfica went through its golden years by winning back-to-back European Cups in ‘61 and ‘62. Throughout the ‘60s Benfica reached three more European Cup finals, losing all three.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;It was during these years that legendary Portuguese striker, Eusebio, played for Benfica scoring a remarkable 317 goals in 301 games. Eusebio is still the only player to win a Ballon d’Or while playing for a Portuguese club.                                              &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;As well as glory in the European Cup, the 1960s saw Benfica win eight Premeria Liga titles and three Taca de Portugal cups.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;In the ‘70s, Benfica continued to strive domestically, winning six Primeira Liga titles and two Taca de Portugal titles. In Europe, Benfica only managed to reach the semi-finals, beaten by Ajax and Johan Cruyff.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Back from the brink&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;After financial troubles in the ‘80s due to poor financial management, things didn’t get any easier for Benfica in the ‘90s. After decades of success, Benfica struggled domestically and in Europe- and entered a rare trophy&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;It wasn’t until the 2003-04 season that Benfica would win their first trophy since the 1995-96 season. The season after this, Benfica won their first league title since 1994. More success would begin to follow from 2003-04, as Benfica looked to regain its dominance in Portgual.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;4. Barcelona (87 trophies)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Competing with Spanish rivals Real Madrid, Barcelona is a dominant force in Spain and they have enjoyed spells of dominance in European competitions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Barca has 26 La Liga titles, a record 31 Copa del Ray titles, a record 12 Supercopa de Espana titles, five European Cups/UEFA Champion Leagues, a record four UEFA Cup Winners’ Cups, a record five UEFA Super Cups and three FIFA Club World Cups&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Johan Cruyff and Diego Maradona&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Cruyff arrived from Ajax&lt;/span&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444;&quot;&gt; for a then-record fee of £920,000. In his first season, Cruyff helped Barca win their first league title for 14 years. The win included an impressive 5-0 victory away at Real Madrid.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;After Cruyff departed, Barca looked to replace their star man with another star name. In 1982, they did just that by signing Maradona for a world record fee of £5 million. His time at Barca was short, but Maradona picked up a Copa del Ray and Spanish Super Cup medal..&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Cruyff returned as manager in 1988, leading to a spell of dominance for the Spanish giants. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Players such as Hristo Stoichkov, Pep Guardiola, Eusebio, Ronald Koeman and Michael Laudrup were all part of Cruyff’s dream team era.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Cruyff saw Barca win 11 trophies under his management, including four consecutive La Liga titles.&lt;/span&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Lionel Messi, Xavi and Iniesta&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Former player Guardiola took over as manager in 2008 and brought with him his tika-taka style that would change the game completely.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Pep inherited a team full of stars such as Ronaldinho, Messi, Iniesta, Xavi and Carlos Puyol. Pep was quick to put his stamp on the team. Out went Ronaldinho and Deco, as Pep shaped his team around Messi, Xavi and Iniesta.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;During Pep’s spell, they became the dominant team in Europe. During his four year spell at the club, Barca won 14 trophies including, two UEFA Champions Leagues and two FIFA Club World Cups.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Recent years&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Barcelona has recently faced financial struggles which led to Messi reluctantly leaving the club after 21 years. On the field, Barca dropped into the Europa League for the first time in 17 years.The former midfielder, Xavi, recently became the Barca manager in the hope to return.&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:-17px; margin-right:-17px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;3. Real Madrid (90 trophies)&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:24px; margin-left:-17px; margin-right:-17px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444;&quot;&gt;Arguably one of the biggest clubs in world football, it is no surprise to see Real Madrid on this list.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:24px; margin-left:-17px; margin-right:-17px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444;&quot;&gt;Their trophy cabinet includes a record 35 La Liga’s, 19 Copa del Rey’s, 11 Supercopa de Espana’s, a record 13 European Cup/UEFA Champion Leagues, two UEFA Cup titles, four UEFA Super Cup titles, three Intercontinental Cups and four FIFA Club World Cups.&lt;/span&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Early European success &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;After the creation of the European Cup (known now as the UEFA Champions League), Madrid cemented itself as the dominant force in European football.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;They won five European Cups in a row between 1956 and 1960, leading to Madrid being awarded the original cup and the right to wear the UEFA badge of honour.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Galacticos&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Madrid is known for having a team full of star names who have worn the famous white strip. The likes of Alfredo Di Stefano, Hugo Sanchez and Emilio Butragueno have all been blessed to play for Madrid but under new president Florentino Perez, Madrid entered another level.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Perez oversaw the signing of Luis Figo, Zinedine Zidane, Ronaldo and David Beckham, to name a few. The influx of players saw immediate success with a UEFA Champions League and Intercontinental Cup success in 2002, followed by a La Liga title in 2003.Despite the immense talent in their squad, Madrid would go the next three seasons without winning a major title.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;CR7 and La Decima&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;In 2009, Real Madrid broke the transfer record when they signed Cristiano Ronaldo for £80 million from Manchester United. Ronaldo helped Madrid reach a record 32nd La Liga title.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Real Madrid, aided by a front three of Ronaldo, Karim Benzema and Gareth Bale, finally reached La Decima in 2014. Their 10th Champions League trophy was made even sweeter by beating their local rivals Atletico Madrid in the final.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;After finally reaching ten Champions League trophies, Madrid went on to win three Champions League in a row between 2014-2018. The 13 titles Madrid hold is the record for most Champions League titles.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;2. Celtic (112 trophies)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;One half of Glasgow and one half of the dominance in Scottish football, Celtic have found winning trophies in Scotland easy- and they also have past success in Europe under their belt.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Celtic boast 51 SPL titles, 40 Scottish Cup titles, 20 Scottish League Cup titles and one European Cup.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;One night in Lisbon &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Celtic had enjoyed years of domestic success, and in 1967, Celtic enjoyed success on the Continent. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Jock Stein led Celtic to glory in every competition they entered, but the most remarkable of these trophies was in Europe. Stein led the Glasgow team to glory against Inter Milan.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;This win made them the first British side to win the European Cup.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;The side that led Celtic to the glory that night became known as the “Lisbon Lions” and remain one of the best teams to wear the famous green and white hoops.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Modern-day&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Success in Europe has been hard for Celtic to find, but success domestically has continued. Their last trip to a European final was in 2003 when they reached the UEFA Cup Final, losing 3-2 to Porto in extra time.In Scottish football, Celtic saw a period of continued success when fierce rivals Rangers dropped down divisions due to financial issues.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;The 2019-20 season saw Celtic complete a fourth consecutive domestic treble after a season hit by COVID-19 issues.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;1. Rangers (120 trophies)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;The other side of Glasgow and the other side of the dominance in Scottish football take the top spot of the most successful club in Europe.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;The Rangers’ impressive trophy cabinet boasts a record 55 SPL titles, three lower league titles, 33 Scottish Cups, 27 Scottish League Cups, one Scottish Challenge Cup and one European Cup Winners’ Cup.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;European glory &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Compared to their Glasgow rivals, Rangers have found success in Europe very difficult. Their only taste of European success came in 1972 when they beat Dynamo Moscow in the European Cup Winners’ Cup.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;This success saw them slowly emerge from the shadow of a strong Celtic side led by Jock Stein. Rangers won their first title in 11 years during the 1974-75 season. This was quickly followed by a treble in the season after.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;9-in-a-row&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Rangers finally matched Celtic’s record of 9 titles in a row. Rangers won the league every season from 1988-89 to the 1996-97 season.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;After the 9-in-a-row era team separated, Dick Advocaat became Rangers’ first foreign manager. He had an immediate impact after heavy investment, winning back-to-back titles.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Rise back to the top&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;In 2012, Rangers entered into liquidation and quickly reformed. The newly formed Rangers failed to stay in the SPL and joined the Scottish Football League. After discussions, Rangers were placed in the lowest division (The Third) rather than the First Division as they hoped for.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;With a much-changed team, Rangers began the climb back to the top of the Scottish pyramid. One thing that didn’t change is the Rangers fan base, attracting crowds at 49,000 for fourth-tier games.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Rangers returned to the Scottish Premier League in the 2016-17 season.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; font-weight:600; color:#333333;&quot;&gt;Number 55&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:32px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Arial','Helvetica','sans-serif'; font-size:10pt; color:#444444; background-color:#ffffff;&quot;&gt;Rangers spent the first few years of their return to the top battling with Celtic, not able to break the Celtic hold on the SPL.Liverpool legend Steven Gerrard soon took over the reins at Ibrox, and in 2021, Rangers won their first league title in 10 years.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_2">
+           <property name="geometry">
+            <rect>
+             <x>310</x>
+             <y>110</y>
+             <width>1171</width>
+             <height>571</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 26pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/WhatsApp Image 2022-03-01 at 10.30.04 AMnewww.jpeg</pixmap>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton">
+           <property name="geometry">
+            <rect>
+             <x>1750</x>
+             <y>0</y>
+             <width>91</width>
+             <height>41</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 11pt &quot;Britannic Bold&quot;;</string>
+           </property>
+           <property name="text">
+            <string>BACK</string>
+           </property>
+           <property name="checkable">
+            <bool>false</bool>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit">
+           <property name="geometry">
+            <rect>
+             <x>340</x>
+             <y>20</y>
+             <width>841</width>
+             <height>61</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 28pt &quot;MS Shell Dlg 2&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Top 5 Most Successfull Clubs In Europe</string>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton_2">
+           <property name="geometry">
+            <rect>
+             <x>1370</x>
+             <y>4230</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string>Like</string>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton_3">
+           <property name="geometry">
+            <rect>
+             <x>1590</x>
+             <y>4230</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string>Dislike</string>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit_2">
+           <property name="geometry">
+            <rect>
+             <x>1360</x>
+             <y>4270</y>
+             <width>113</width>
+             <height>22</height>
+            </rect>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit_3">
+           <property name="geometry">
+            <rect>
+             <x>1580</x>
+             <y>4270</y>
+             <width>113</width>
+             <height>22</height>
+            </rect>
+           </property>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="../Riya/test.qrc"/>
+ </resources>
+ <connections/>
+</ui>

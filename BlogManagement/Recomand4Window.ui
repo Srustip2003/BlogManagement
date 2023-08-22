@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1898</width>
+    <height>849</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(176, 176, 176);</string>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>-1152</y>
+         <width>1857</width>
+         <height>3218</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QFrame" name="frame">
+          <property name="minimumSize">
+           <size>
+            <width>0</width>
+            <height>3200</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: white;</string>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <widget class="QLabel" name="label">
+           <property name="geometry">
+            <rect>
+             <x>520</x>
+             <y>100</y>
+             <width>741</width>
+             <height>541</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/WhatsApp Image 2022-02-24 at 1.33.56 PM.jpeg</pixmap>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>600</y>
+             <width>1811</width>
+             <height>281</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h3 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:32px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;Seizure Treatment&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;Cannabis has been suggested as a treatment for epilepsy and Parkinson’s Disease. Multiple studies have shown patients to show relief from seizures. The long-term effects of this treatment remain to be seen, but users are happy with their results as they can control their body movements.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;Researchers are testing cannabis on a brain receptor to see whether it can help people with neurodegenerative illnesses, which cause the brain and nerves to age. This receptor’s name is CB1. Researchers are investigating using Cannabis oil to treat:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Alzheimer’s.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;MS is a disease that affects humans (MS)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Parkinson’s stroke&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Cannabis oil may also help reduce inflammation, which can worsen neurological symptoms&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_3">
+           <property name="geometry">
+            <rect>
+             <x>410</x>
+             <y>870</y>
+             <width>961</width>
+             <height>461</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/Screenshot (310).png</pixmap>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_2">
+           <property name="geometry">
+            <rect>
+             <x>13</x>
+             <y>1380</y>
+             <width>1801</width>
+             <height>741</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h3 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:32px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;Pain Relief&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;The effects of Cannabis oil on brain receptors may help manage pain. Studies have shown that cannabis can help after chemo treatments. Other studies examine cannabis’s use to treat symptoms of:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Arthritis pain&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;MS muscle pain from spinal cord damage&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;a href=&quot;https://mstrust.org.uk/a-z/sativex-nabiximols#:~:text=Other%20names%3A%20nabiximols,found%20their%20side%20effects%20intolerable.&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; text-decoration: underline; color:#000000;&quot;&gt;Nabiximols (Sativex)&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot;&gt;, a multiple sclerosis drug made from THC and CBD, has been approved in the UK and Canada. Researchers think CBD’s anti-inflammatory capabilities are stronger than its pain-relieving properties. Clinical trials are necessary to assess cannabis’s efficacy in treating pain.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:32px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;Acne Cure&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;Cannabis’s immune system receptor actions may help reduce overall body inflammation. As a result,&lt;/span&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://artofhealthyliving.com/5-reasons-add-cannabis-oil-daily-routine/&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; text-decoration: underline; color:#000000;&quot;&gt;cannabis oil may help&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot;&gt; cure acne. A &lt;/span&gt;&lt;a href=&quot;https://jcannabisresearch.biomedcentral.com/&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; text-decoration: underline; color:#000000;&quot;&gt;Journal of Clinical Investigation&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot;&gt; found that the oil decreased sebaceous gland activity. These glands create sebum, an oily fluid that moisturizes the skin. But too much sebum causes acne.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;Consult a dermatologist before taking cannabis oil to treat acne. The benefits of cannabis for acne need to be studied in humans for long-term effects.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;Cancer Treatment&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;Some research has looked into how cannabis affects cancer cell growth, but further research is required. The NCI says cannabis may help with cancer symptoms and side effects. However, the&lt;/span&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/complementary-and-integrative-medicine/marijuana-and-cancer.html&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; text-decoration: underline; color:#000000;&quot;&gt;National Cancer Institute&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot;&gt; opposes any use of cannabis as a cancer treatment. A cancer medication, cannabis can reduce inflammation and change the way cells reproduce. Cannabis slows the growth of certain tumor cells.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:32px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;Negative Effects&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;The effects of Cannabis use depends on:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;How a person uses marijuana&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;How frequently they utilize it&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;The age of the person indulging&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;The amount of energy a person consumes at any particular time&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;The physical effects include lung distress, nausea, and vomiting.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:600; color:#444444; background-color:#ffffff;&quot;&gt;Inadvertently taking too much cannabis at once might cause cannabis toxicity. Cannabis poisoning isn’t usually fatal. Intense discomfort and danger require rapid medical intervention and, in some cases, hospitalization.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_4">
+           <property name="geometry">
+            <rect>
+             <x>520</x>
+             <y>2100</y>
+             <width>1121</width>
+             <height>541</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/Screenshot (311).png</pixmap>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_3">
+           <property name="geometry">
+            <rect>
+             <x>10</x>
+             <y>2700</y>
+             <width>1811</width>
+             <height>431</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h3 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:32px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;It Can Affect Your Mental Health&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; color:#444444; background-color:#ffffff;&quot;&gt;Marijuana isn’t for everyone. It can cause anxiety, fear, terror, or paranoia. Marijuana use may increase the chance of developing clinical depression or worsen existing mental conditions. Scientists are baffled. It might cause paranoia or a loss of reality, causing you to hear or see things that aren’t there.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:32px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Oswald'; font-size:8pt; font-weight:600; color:#33cccc;&quot;&gt;Your Perception May Be Distorted&lt;/span&gt;&lt;/h3&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; color:#444444; background-color:#ffffff;&quot;&gt;Cannabis may distort perception and impair judgment. The effects of marijuana vary depending on potency, consumption method, and previous consumption. It is possible to experience:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-family:'Lato'; font-size:8pt; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Boosting of senses (colors might seem brighter and sounds might seem louder)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Distortion of time perception&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Weakening motor skills, making driving riskier&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot; font-family:'Lato'; font-size:8pt; color:#444444;&quot; style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16px;&quot;&gt;Reducing inhibitions to indulge in risky activities.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; font-weight:696; color:#444444;&quot;&gt;Conclusion&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:18px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Lato'; font-size:8pt; color:#444444; background-color:#ffffff;&quot;&gt;The Cannabis chemical may be beneficial for a variety of conditions. The first step toward responsible cannabis use is understanding what it does in the body. While there are still some unknowns, the chemical appears to be a potential therapy option. So make sure you get expert, professional medical advice instead of self-treating yourself.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton">
+           <property name="geometry">
+            <rect>
+             <x>1750</x>
+             <y>0</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 11pt &quot;Britannic Bold&quot;;</string>
+           </property>
+           <property name="text">
+            <string>BACK</string>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton_2">
+           <property name="geometry">
+            <rect>
+             <x>1390</x>
+             <y>3110</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string>Like</string>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton_3">
+           <property name="geometry">
+            <rect>
+             <x>1570</x>
+             <y>3110</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string>Dislike</string>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit">
+           <property name="geometry">
+            <rect>
+             <x>332</x>
+             <y>30</y>
+             <width>1051</width>
+             <height>61</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 30pt &quot;MS Shell Dlg 2&quot;;</string>
+           </property>
+           <property name="text">
+            <string>THE EFFECTS OF CANNABIS ON YOUR BODY</string>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit_2">
+           <property name="geometry">
+            <rect>
+             <x>1380</x>
+             <y>3160</y>
+             <width>113</width>
+             <height>22</height>
+            </rect>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit_3">
+           <property name="geometry">
+            <rect>
+             <x>1560</x>
+             <y>3160</y>
+             <width>113</width>
+             <height>22</height>
+            </rect>
+           </property>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

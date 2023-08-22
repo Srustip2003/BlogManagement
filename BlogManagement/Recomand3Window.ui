@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1874</width>
+    <height>1500</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1000</width>
+    <height>1500</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 85, 127);
+background-color: rgb(255, 255, 255);</string>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="minimumSize">
+       <size>
+        <width>1000</width>
+        <height>1000</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: grey;</string>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>-2330</y>
+         <width>1833</width>
+         <height>5500</height>
+        </rect>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>5500</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 255);</string>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QFrame" name="frame">
+          <property name="minimumSize">
+           <size>
+            <width>700</width>
+            <height>700</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(255, 255, 255);</string>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::StyledPanel</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Raised</enum>
+          </property>
+          <widget class="QTextEdit" name="textEdit">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>710</y>
+             <width>1811</width>
+             <height>261</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Home to hundreds of World Heritage Sites, Europe welcomes millions of tourists each year. Unsurprisingly, Europe has one of the most developed accommodation industries in the world. But there’s another sector in Europe’s hospitality industry that’s becoming very popular – alternative accommodations.&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Alternative accommodations refer to a type of accommodations that are different from the standard hotels. From bed and breakfasts to cabin lodges and treehouses, these accommodation options have long been popular across the continent and are now growing even more rapidly compared to traditional hotels. Staying at these accommodations will not only often save you some money but they will offer unique experiences that can make for a more unforgettable travel experience. Below, check out the top alternative destinations to stay across Europe.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_2">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>1590</y>
+             <width>181</width>
+             <height>71</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 24pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string>1. Croatia</string>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_2">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>1660</y>
+             <width>1811</width>
+             <height>281</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;As one of the most visited countries in Europe, Croatia has no shortage of luxury hotels and resorts. But if you’re looking to stay at something that’s a little bit out of the ordinary, there are plenty of alternative accommodation options that might be suitable for you.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;What about staying at a beautiful lighthouse that opens to stunning views of the sea? Croatia is famous for its coastline, which is lined with old lighthouses, some of which have been renovated and are available for tourists to rent. Staying at eco-lodges in the countryside has also become very popular in Croatia, as the country relies mainly on agriculture and tourism.&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;For animal lovers, staying at animal sanctuaries might be a good idea. Some of Croatia’s animal sanctuaries offer travelers a chance to stay on-site while getting involved in the rehabilitation of the animals. One such sanctuary is&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; the&lt;/span&gt;&lt;a href=&quot;https://kuterevo.org/bears/&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; text-decoration: underline; color:#3399e6;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;https://kuterevo.org/bears/&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; text-decoration: underline; color:#000000;&quot;&gt;Kuterevo Bear Sanctuary&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt;, which allows visitors to stay from Easter until late Autumn. During your stay, you’ll have a chance to feed the rescued bears and nurse them back to health.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_3">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>2450</y>
+             <width>221</width>
+             <height>71</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 24pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string>2. Ireland</string>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_3">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>2510</y>
+             <width>1821</width>
+             <height>271</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Ireland is a stunning country, and your visit will be more memorable if you stay at unique accommodations, such as a treehouse, farmhouse or even a real castle! Ireland’s impressive collection of alternative accommodations is a reflection of the country’s charming peculiarity.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;If you want to live out your childhood fantasy of sleeping high up in a tree, Ireland is the perfect place for this. The country is home to so many amazing treehouses, each offering something unique. For instance, The Birdbox, a quirky treehouse in Donegal, is nestled among the branches of oak trees, a perfect escape for romantic couples who love nature.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Staying at an Irish farmhouse is also popular among tourists in Ireland. Most of these farmhouses are set in a sprawling land that overlooks the gorgeous Irish countryside.&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; The Temple House, a family mansion set on 1,000 acres of land overlooks the lakeside ruins of the Knights Templar castle. And if you want to splurge and live like a king on your Irish holiday, then stay at a real castle. These castles date back to the 16th century and have been renovated and furnished with elegant rooms decorated with intricate ornaments fit for royalty.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_4">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>2760</y>
+             <width>1821</width>
+             <height>71</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 24pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string>3. Luxembourg</string>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_4">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>2820</y>
+             <width>1821</width>
+             <height>281</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;In Luxembourg, one can find many unique places to stay, but the most popular is glamping. Glamping refers to the style of&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; camping holidays in Europe where guests can stay in luxury tents fitted with comforts and amenities. The tiny country of Luxembourg is known for its sprawling rural areas, so it’s not surprising to find lots of good campsites here. From the woodlands of the north to the Moselle Valley in the south, Luxembourg’s countryside certainly packs a punch when it comes to camping. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Camping Kautenbach offers different types of luxury tents of varying sizes. For families and big groups, there’s a 2-bedroom tent equipped with a living and kitchen space and complete with bunk beds, sheets, pillows and blankets. The campsite is hidden in a beautiful green valley in the town of Kautenbach, by the banks of The Clerve river and surrounded by lush forest.&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Aside from glamping, Luxembourg is also home to several other unique accommodations, such as lodging houses set in historic buildings, romantic chalets and an 18th Century castle known for its gourmet French cuisines.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_5">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>3720</y>
+             <width>271</width>
+             <height>61</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 24pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string>4. Formentera</string>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_5">
+           <property name="geometry">
+            <rect>
+             <x>-10</x>
+             <y>3770</y>
+             <width>1831</width>
+             <height>311</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Formentera is a beautiful Spanish island in the Mediterranean known for its crystal clear waters and long stretches of beach. As a popular holiday destination, the island has tons of hotels and resorts. But it’s also home to the trendiest alternative options. From agriturismos to guesthouses and boutique hotels, staying at these alternative accommodations will make your Formentera holiday even more unforgettable.&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;In the charming village of&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; Sant Ferran de ses Roques, there’s a beachfront residence known as Etosoto, which hosts cultural and agricultural experiences. Etosoto is an eco-friendly guesthouse with a minimalist design and decorated with bohemian furnishings. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;There are also spectacular apartments in Formentera that overlook the vast expanse of the Mediterranean Sea. Paraiso de Los Pinos, a luxury apartment complex in Formentera’s Es Migjorn, features a distinct, modern atmosphere, offering a perfect place to spend the holiday of your dreams.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_6">
+           <property name="geometry">
+            <rect>
+             <x>20</x>
+             <y>4590</y>
+             <width>251</width>
+             <height>61</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 24pt &quot;Arial&quot;;</string>
+           </property>
+           <property name="text">
+            <string>5. Mallorca </string>
+           </property>
+          </widget>
+          <widget class="QTextEdit" name="textEdit_6">
+           <property name="geometry">
+            <rect>
+             <x>10</x>
+             <y>4640</y>
+             <width>1811</width>
+             <height>431</height>
+            </rect>
+           </property>
+           <property name="html">
+            <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Mallorca, another popular holiday destination in Spain, is also home to some unique alternative accommodations. From historic buildings to beachside mansions and&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; stunning luxury Mallora vilas, you’ll have plenty of options for a more exciting beach holiday in Spain. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;In Valldemossa, there’s a lovely boutique hotel called the Mirabó de Valldemossa. Set in the Sierra de Tramuntana Mountains overlooking the gorgeous views of the island, this property is a 16th-century farmhouse that was converted into a guesthouse while preserving its unique and enticing character.&lt;/span&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Families seeking a luxurious escape in Mallorca should stay at one of the island’s luxury holiday villas. From modern designed villas to traditional stone fincas, most of these properties are conveniently located on the island, giving you easy access to the many attractions in Mallorca. These villas are fitted with pools and offer easy access to some of the island’s most beautiful beaches.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','Helvetica','sans-serif'; font-size:12pt; color:#222222; background-color:#ffffff;&quot;&gt;Aside from the luxury properties, there are also affordable guesthouses and budget accommodations peppered across the island which caters to budget travelers and backpackers. While camping is strictly prohibited in Mallorca and the rest of the Balearic Islands, some private properties allow tourists to pitch their tents. Make sure you do your research and follow all the rules and regulations to avoid hefty penalties.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_8">
+           <property name="geometry">
+            <rect>
+             <x>300</x>
+             <y>3090</y>
+             <width>1501</width>
+             <height>621</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">background-image: url(:/newPrefix/Screenshots/Luxe.png);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/travel4.png</pixmap>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_7">
+           <property name="geometry">
+            <rect>
+             <x>480</x>
+             <y>1080</y>
+             <width>971</width>
+             <height>541</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">background-image: url(:/newPrefix/Screenshots/Crotia.png);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_11">
+           <property name="geometry">
+            <rect>
+             <x>290</x>
+             <y>4060</y>
+             <width>1141</width>
+             <height>521</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">background-image: url(:/newPrefix/Screenshots/Mor.png);</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/travellllllll.png</pixmap>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_12">
+           <property name="geometry">
+            <rect>
+             <x>250</x>
+             <y>130</y>
+             <width>1271</width>
+             <height>531</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/travel111.png</pixmap>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_13">
+           <property name="geometry">
+            <rect>
+             <x>270</x>
+             <y>1000</y>
+             <width>1251</width>
+             <height>601</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/travel22.png</pixmap>
+           </property>
+          </widget>
+          <widget class="QLabel" name="label_14">
+           <property name="geometry">
+            <rect>
+             <x>490</x>
+             <y>1960</y>
+             <width>771</width>
+             <height>501</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="pixmap">
+            <pixmap>C:/Users/91810/Pictures/Screenshots/travel55.png</pixmap>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton">
+           <property name="geometry">
+            <rect>
+             <x>1730</x>
+             <y>0</y>
+             <width>93</width>
+             <height>41</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 11pt &quot;Britannic Bold&quot;;</string>
+           </property>
+           <property name="text">
+            <string>BACK</string>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit">
+           <property name="geometry">
+            <rect>
+             <x>420</x>
+             <y>20</y>
+             <width>811</width>
+             <height>61</height>
+            </rect>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">font: 75 20pt &quot;MS Shell Dlg 2&quot;;</string>
+           </property>
+           <property name="text">
+            <string>Top Alternative Destinations to Visit Across Europe</string>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit_2">
+           <property name="geometry">
+            <rect>
+             <x>1280</x>
+             <y>5140</y>
+             <width>113</width>
+             <height>22</height>
+            </rect>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="lineEdit_3">
+           <property name="geometry">
+            <rect>
+             <x>1470</x>
+             <y>5140</y>
+             <width>113</width>
+             <height>22</height>
+            </rect>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton_2">
+           <property name="geometry">
+            <rect>
+             <x>1280</x>
+             <y>5090</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string>Like</string>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="pushButton_3">
+           <property name="geometry">
+            <rect>
+             <x>1470</x>
+             <y>5090</y>
+             <width>93</width>
+             <height>28</height>
+            </rect>
+           </property>
+           <property name="text">
+            <string>Dislike</string>
+           </property>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
